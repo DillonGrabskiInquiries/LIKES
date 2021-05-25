@@ -1,0 +1,27 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    width: 70%
+}
+
+nav h1 {
+    color: white;
+}
+
+.titleSplit {
+    display: flex;
+}
+
+.mainPanel {
+    display: flex;
+}
+
+.smallPanel {
+    outline: black 6px solid;
+    left: 500px;
+}
